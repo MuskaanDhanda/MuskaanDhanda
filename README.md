@@ -26,17 +26,9 @@
 
 ### 👩‍💻 About Me
 
-```yaml
-name: Muskaan Dhanda
-role: DevOps Engineer | Cloud Engineer
-location: Noida, India
-experience: ~3 years — Cloud Engineer at Coforge (Jun 2021 – Mar 2024)
-clouds: [Microsoft Azure, AWS]
-education: B.Tech, Information Technology — Kurukshetra University (CGPA 8.3)
-currently: Executive PG Certification in Cloud Computing & DevOps — iHUB DivyaSampark, IIT Roorkee
-building: CI/CD pipelines, containerized apps on Kubernetes / Amazon EKS, IaC with Terraform
-availability: Immediate joiner (no notice period)
-```
+<p align="center">
+  <img src="./about-me.svg" alt="About Muskaan: DevOps & Cloud Engineer in Noida, ~3 years at Coforge, Azure and AWS, B.Tech IT (CGPA 8.3), Exec. PG in Cloud & DevOps at IIT Roorkee, open to roles as an immediate joiner" width="100%"/>
+</p>
 
 ---
 
