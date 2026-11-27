@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muskaan-dhanda-164378180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:muskaan.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/MuskaanDhanda/DevOps-Assignments"><img src="https://img.shields.io/badge/DevOps_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevOps Portfolio"/></a>
-  <a href="https://github.com/MuskaanDhanda/AWS-Assignments-and-Projects"><img src="https://img.shields.io/badge/AWS_Work-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Work"/></a>
+  <a href="https://www.linkedin.com/in/muskaan-dhanda-164378180" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:muskaan.engineer@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://github.com/MuskaanDhanda/DevOps-Assignments" title="DevOps Portfolio"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="DevOps Portfolio"/></a>&nbsp;&nbsp;
+<a href="https://github.com/MuskaanDhanda/AWS-Assignments-and-Projects" title="AWS Work"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS Work"/></a>
 </p>
 
 <p align="center">
