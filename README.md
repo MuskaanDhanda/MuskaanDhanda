@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/muskaan-dhanda-164378180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:muskaan.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/MuskaanDhanda/devops-capstone-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuskaanDhanda&repo=devops-capstone-project-1&theme=tokyonight&hide_border=true" alt="devops-capstone-project-1"/></a>
+  <a href="https://github.com/MuskaanDhanda/devops-capstone-project-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuskaanDhanda&repo=devops-capstone-project-2&theme=tokyonight&hide_border=true" alt="devops-capstone-project-2"/></a>
   <a href="https://github.com/MuskaanDhanda/DevOps-Assignments"><img src="https://img.shields.io/badge/DevOps_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevOps Portfolio"/></a>
   <a href="https://github.com/MuskaanDhanda/AWS-Assignments-and-Projects"><img src="https://img.shields.io/badge/AWS_Work-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Work"/></a>
 </p>
@@ -99,6 +101,15 @@ Ansible playbooks that install and configure software on Linux servers automatic
 
 MariaDB on RDS connected from Windows and Linux clients, Aurora with read replicas across availability zones, and a DynamoDB table with backup and restore. See the [AWS repo](https://github.com/MuskaanDhanda/AWS-Assignments-and-Projects/tree/main/assignments).
 </details>
+
+---
+
+### 🕒 Latest Work
+
+<!-- LATEST-REPOS:START -->
+<!-- LATEST-REPOS:END -->
+
+<sub>Updated automatically every day by a GitHub Actions workflow.</sub>
 
 ---
 
