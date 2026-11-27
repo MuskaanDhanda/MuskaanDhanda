@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea44f?style=flat-square" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Notice%20period-Immediate%20joiner-38bdf8?style=flat-square" alt="Immediate joiner"/>
-  <img src="https://img.shields.io/badge/Location-Noida%2C%20India-8b5cf6?style=flat-square" alt="Location"/>
-  <img src="https://komarev.com/ghpvc/?username=MuskaanDhanda&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20work-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="Status: Open to work"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20Notice%20period-Immediate%20joiner-7dcfff?style=for-the-badge&labelColor=1a1b27" alt="Notice period: Immediate joiner"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Location-Noida%2C%20India-bb9af7?style=for-the-badge&labelColor=1a1b27" alt="Location: Noida, India"/>
+<img src="https://komarev.com/ghpvc/?username=MuskaanDhanda&label=%F0%9F%91%80%20Profile%20views&color=ff9e64&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
