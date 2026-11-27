@@ -137,7 +137,8 @@ MariaDB on RDS connected from Windows and Linux clients, Aurora with read replic
 <br/>
 
 - Executive PG Certification in Cloud Computing & DevOps (expected Dec 2026)
-- **DevOps tools:** Git, Ansible, Docker, Kubernetes, Jenkins, Terraform, ELK Stack
+- **DevOps tools:** Git, Ansible, Docker, Kubernetes, Amazon EKS, Jenkins, Terraform, ELK Stack
+- **Amazon EKS with Terraform:** wrote Terraform code in VS Code to provision Amazon EKS clusters, then decommissioned them from the AWS Console
 - **AWS compute & networking:** EC2, Elastic Load Balancing, Auto Scaling, VPC, Route 53, CloudFront, Global Accelerator, ENI / ENA / EFA
 - **AWS storage & databases:** S3, EBS, EFS, FSx, RDS, AWS Backup
 - **AWS security & monitoring:** IAM, CloudWatch, CloudTrail
