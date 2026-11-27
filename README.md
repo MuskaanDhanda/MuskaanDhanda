@@ -132,12 +132,18 @@ MariaDB on RDS connected from Windows and Linux clients, Aurora with read replic
 - Administered Linux servers: LVM, SELinux, firewall, DNS/DHCP, troubleshooting
 </details>
 
-<details>
+<details open>
 <summary><b>DevOps Upskilling — iHUB DivyaSampark, IIT Roorkee</b> · 2026 – Present</summary>
 <br/>
 
 - Executive PG Certification in Cloud Computing & DevOps (expected Dec 2026)
-- Hands-on with Jenkins, Docker, Kubernetes, Amazon EKS, Terraform and Ansible
+- **DevOps tools:** Git, Ansible, Docker, Kubernetes (Amazon EKS), Jenkins, Terraform, ELK Stack
+- **AWS compute & networking:** EC2, Elastic Load Balancing, Auto Scaling, VPC, Route 53, CloudFront, Global Accelerator, ENI / ENA / EFA
+- **AWS storage & databases:** S3, EBS, EFS, FSx, RDS, AWS Backup
+- **AWS security & monitoring:** IAM, CloudWatch, CloudTrail
+- **AWS application services:** Lambda, Elastic Beanstalk, API Gateway, CloudFormation, SQS, SNS, SES
+- **Foundations:** Linux, Python, virtualization, cloud migration
+- Hands-on labs in Git, Docker, Kubernetes, Jenkins, Ansible, EC2, EBS, EFS, ELB, Auto Scaling, VPC, S3, IAM and Lambda, plus an AWS project and two DevOps capstone projects
 </details>
 
 ---
