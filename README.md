@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=aws,azure,linux,ubuntu,bash,python&theme=dark&perline=6" alt="Cloud, OS and scripting"/></a><br/>
@@ -62,7 +62,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Project Highlights
 
 <p align="center">
   <a href="https://github.com/MuskaanDhanda/devops-capstone-project-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MuskaanDhanda&repo=devops-capstone-project-1&theme=tokyonight&hide_border=true" alt="devops-capstone-project-1"/></a>
