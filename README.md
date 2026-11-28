@@ -109,10 +109,10 @@ MariaDB on RDS connected from Windows and Linux clients, Aurora with read replic
 <!-- LATEST-REPOS:START -->
 | Repository | What it is | Tech | Last updated |
 |------------|------------|------|--------------|
+| [AWS-Assignments-and-Projects](https://github.com/MuskaanDhanda/AWS-Assignments-and-Projects) | Hands-on AWS assignments and projects | Docs | 2026-11-27 |
+| [devops-capstone-project-1](https://github.com/MuskaanDhanda/devops-capstone-project-1) | End-to-end CI/CD on AWS EC2: Ansible installs Jenkins, Java and Docker; Jenkins build/test/prod jobs deploy a Dockerised website from master and develop branches. | Shell | 2026-11-27 |
 | [DevOps-Assignments](https://github.com/MuskaanDhanda/DevOps-Assignments) | Hands-on DevOps assignments: Git, Docker, Ansible, Jenkins, Kubernetes on AWS | Docs | 2026-11-27 |
-| [devops-capstone-project-1](https://github.com/MuskaanDhanda/devops-capstone-project-1) | DevOps capstone project 1 | Shell | 2026-11-27 |
-| [devops-capstone-project-2](https://github.com/MuskaanDhanda/devops-capstone-project-2) | DevOps Capstone Project 2 — infrastructure creation and configuration management with Terraform, Jenkins, Docker, Kubernetes, and AWS. | Docs | 2026-11-26 |
-| [AWS-Assignments-and-Projects](https://github.com/MuskaanDhanda/AWS-Assignments-and-Projects) | Hands-on AWS assignments and projects | Docs | 2026-11-24 |
+| [devops-capstone-project-2](https://github.com/MuskaanDhanda/devops-capstone-project-2) | Terraform provisions AWS EC2, Ansible configures the servers, and a Jenkins pipeline builds a Docker image, pushes it to Docker Hub and deploys it to Kubernetes. | Docs | 2026-11-26 |
 <!-- LATEST-REPOS:END -->
 
 <sub>Updated automatically every day by a GitHub Actions workflow.</sub>
